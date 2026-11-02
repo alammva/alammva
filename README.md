@@ -7,18 +7,13 @@ I'm an **Informatics Engineering Student at ITPLN** focusing on IT Systems Analy
 
 - 🔭 **Currently working on:** Transitify (Cross-platform Public Transit App for Jabodetabek)
 - 🌱 **Currently learning:** Advanced Data Modeling, System Architecture, & IT Project Management
-- 👯 **Looking to collaborate on:** Open-source IT systems, database optimization, and web/mobile apps
-- 💬 **Ask me about:** Database Schemas (Star & Snowflake), System Analysis, phpMyAdmin, and Flutter
-- 📫 **How to reach me:** LinkedIn / Email
-- ⚡ **Fun fact:** I love optimizing complex backend systems and strategizing workflows!
+
+
+![Coding Cat Animation](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHAzYTNyMWlucDU2ZWh3OWRjNzdpeWp0aHM1ZjdoZDl2bmVlZG83ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Core Focus:** IT System Analysis, Database Design, IT Operations, Project Management
-- **Database & Backend:** MySQL, phpMyAdmin, Data Modeling (Star & Snowflake Schema)
-- **Development Tools:** VS Code, XAMPP, VirtualBox (CentOS 7), Git & GitHub
-- **Frameworks & Languages:** Flutter, SQL, Shell Scripting
+
 
 <!--
 **alammva/alammva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
