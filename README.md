@@ -1,7 +1,6 @@
 ## Hello World! I'm Nur Alam Fajar Abdullah 👋
 
 ![Header Banner](github-header-banner.png)
-I'm an **Informatics Engineering Student at ITPLN** focusing on IT Systems Analysis, Operations, and Project Management. Passionate about designing robust database architectures, building public transit technology solutions, and organizing efficient technical workflows.
 
 - 🔭 **Currently working on:** Transitify (Cross-platform Public Transit App for Jabodetabek)
 - 🌱 **Currently learning:** Advanced Data Modeling, System Architecture, & IT Project Management
